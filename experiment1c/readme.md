@@ -1,5 +1,5 @@
 # program file
-![program file](roundrobin(1).c)
+![program file](roundrobin (1).c)
 
 # sample output
 ![sample output](rrsampleoutput.PNG)
